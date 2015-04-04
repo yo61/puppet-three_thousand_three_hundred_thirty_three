@@ -4,9 +4,9 @@
   "author": "Robin Bowees <robin.bowes@yo61.com>",
   "summary": "The 3,333rd module on the forge",
   "license": "Apache-2.0",
-  "source": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group",
-  "project_page": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group",
-  "issues_url": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group/issues",
+  "source": "https://github.com/yo61/puppet-three_thousand_three_hundred_thirty_three",
+  "project_page": "https://github.com/yo61/puppet-three_thousand_three_hundred_thirty_three",
+  "issues_url": "https://github.com/yo61/puppet-three_thousand_three_hundred_thirty_three/issues",
   "tags": [
     "joke",
     "3333"
