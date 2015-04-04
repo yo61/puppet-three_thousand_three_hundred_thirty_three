@@ -1,15 +1,15 @@
 {
   "name": "yo61-three_thousand_three_hundred_thirty_three",
-  "version": "3.3.334",
+  "version": "3.3.33",
   "author": "Robin Bowees <robin.bowes@yo61.com>",
-  "summary": "The 33,333rd module on the forge",
+  "summary": "The 3,333rd module on the forge",
   "license": "Apache-2.0",
   "source": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group",
   "project_page": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group",
   "issues_url": "https://github.com/yo61/three_thousand_three_hundred_thirty_three-user_group/issues",
   "tags": [
     "joke",
-    "33333"
+    "3333"
   ],
   "dependencies": [
     {

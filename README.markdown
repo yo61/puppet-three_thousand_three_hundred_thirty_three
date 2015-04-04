@@ -4,5 +4,5 @@
 
 ##Overview
 
-This is the 33,333rd module on the puppet forge.
+This is the 3,333rd module on the puppet forge.
 
